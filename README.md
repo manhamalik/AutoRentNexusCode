@@ -48,3 +48,5 @@ CRAMS is designed with a modular architecture to ensure scalability, maintainabi
 
 ## Usage
 Upon running the application, admins can log in or create a new account. Once logged in, they can manage vehicles, bookings, and customer profiles through the console interface. The system ensures that all operations are performed efficiently and accurately, with real-time updates and automated processes.
+
+Can also access from Replit: https://replit.com/@marcniven1609/CP317-CRAMs
