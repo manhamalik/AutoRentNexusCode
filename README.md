@@ -1,7 +1,7 @@
-# Car Rental Agency Management System (CRAMS)
+# AutoRentNexus
 
 ## Overview
-The Car Rental Agency Management System (CRAMS) is designed to streamline the operations of car rental businesses by automating key functions such as vehicle management, booking processes, and customer management. Developed using Java, the system ensures efficiency, reliability, and ease of use.
+AutoRentNexus is designed to streamline the operations of car rental businesses by automating key functions such as vehicle management, booking processes, and customer management. Developed using Java, the system ensures efficiency, reliability, and ease of use.
 
 ## Features
 ### Vehicle Management
@@ -26,16 +26,16 @@ The Car Rental Agency Management System (CRAMS) is designed to streamline the op
 - **View Customer Rental History**: Admins can view a customer's rental history, including past and current rentals.
 
 ## System Architecture
-CRAMS is designed with a modular architecture to ensure scalability, maintainability, and efficient data management. The system is divided into three main components: Vehicle Management, Booking System, and Customer Management. Each component interacts with various sub-components to perform specific functions.
+AutoRentNexus is designed with a modular architecture to ensure scalability, maintainability, and efficient data management. The system is divided into three main components: Vehicle Management, Booking System, and Customer Management. Each component interacts with various sub-components to perform specific functions.
 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CRAMS.git
+    git clone https://github.com/yourusername/AutoRentNexus.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd CRAMS
+    cd AutoRentNexus
     ```
 3. Compile the Java files:
     ```bash
